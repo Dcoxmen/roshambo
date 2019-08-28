@@ -1,4 +1,7 @@
-# roshambo
+# roshambo<br>
+
+Game URL: https://daventertainment.com/rock-paper-scissors/
+<br>
 
 This is a Vanilla Javascript Rock-Paper-Scissors game.
 It is a user vs computer game structure to learn/teach basic
