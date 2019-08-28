@@ -19,6 +19,4 @@ to the winner accumulating each rounds points.
 
 Author: DCox<br>
 Below is image of what the game looks like.<br>
-
-Author: DCox
 ![](images/PagePic.png)
