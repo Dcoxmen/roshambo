@@ -18,3 +18,4 @@ This will automatically activate the computers counter move and calculate the wi
 to the winner accumulating each rounds points.
 
 Author: DCox
+![](images/PagePic.png)
