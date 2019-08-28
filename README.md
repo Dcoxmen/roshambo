@@ -7,7 +7,7 @@ This is a Vanilla Javascript Rock-Paper-Scissors game.
 It is a user vs computer game structure to learn/teach basic
 logic and conditional programming skills.
 
-Technoloy used:<br>
+Technology used:<br>
 CSS<br>
 HTML<br>
 JavaScript<br>
